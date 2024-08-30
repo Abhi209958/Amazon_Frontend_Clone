@@ -10,4 +10,7 @@ THIS is a static project which is fully responsive using vanilla css
 4. Click on index.html file then click open with live server
 5. Done👍👍
 
-# YOU Can use this to devlelop ad integrate with backend and you can use React js to improve this .
+YOU Can use this to devlelop ad integrate with backend and you can use React js to improve this .
+
+# Demo of the Project 
+link - https://abhi209958.github.io/Amazon_Frontend_Clone/
